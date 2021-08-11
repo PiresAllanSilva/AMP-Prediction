@@ -1,0 +1,16 @@
+>03160|Peptide 6 (Elafin-derived endometrial fluid peptides, human, primates, mammals, animals)
+VKAQEPVKGPVSTKPGSCPIILIRCA
+>03161|Ixosin (hard ticks, Nuttalliellidae, arachnids, Chelicerata, arthropods, invertebrates, animals; UCLL1)
+GLHKVMREVLGYERNSYKKFFLR
+>03162|Pantocin wh-1 (bacteriocins; Gram-negative bacteria, prokaryotes; UCBB)
+VMWCYVFGYGFNCAVW
+>03163|Peptide 5 (a fragment of an  Uncharacterized protein APU46894.1, bacteria, prokaryotes, UCLL1)
+VGAVAFGPVGAVVGGLASGFTGKQT
+>03164|Turgencin A (sea squirt, tunicate, invertebrates, marine animals; 3S=S, UCSS1; XXA; XXO)
+GPKTKAACKMACKLATCGKKPGGWKCKLCELGCDAV
+>03165|Turgencin B (sea squirt, tunicate, invertebrates, marine animals; 3S=S, UCSS1; XXA; XXO)
+GIKEMLCNMACAQTVCKKSGGPLCDTCQAACKALG
+>03166|Brevinin-2GHk (BR2GK; frog, amphibians, animals; UCSS1; Derivatives: BR2GK(1-25)a)
+GFSSLFKAGAKYLLKQVGKAGAQQLACKAANNC
+>03167|Ubonodin (lasso peptidel; lactam; XXJ; UCSB1a; bacteriocins; Gram-negative bacteria, prokaryotes,)
+GGDGSIAEYFNRPMHIHDWQIMDSGYYG
